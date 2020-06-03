@@ -1,0 +1,29 @@
+package de_qui;
+
+public class Recursion 
+{
+	public static long factorial(int n) {
+		if(n==0) return 1;
+		else return n*factorial(n-1);
+	}
+	public static void BoiSo(int n) {
+		if(n<0)
+			System.out.println("NO");
+		else
+			if(n==0) System.out.println("Yes");
+			else BoiSo(n-7);
+		
+	}
+	public static long hieu(int a,int b) {
+		if(a==0) return 0;
+		else return hieu(a-b,b);
+	}
+
+	public static void main(String[] args) {
+		//Recursion.factorial(5);
+		System.out.println(Recursion.factorial(5));
+		Recursion.BoiSo(12384);
+		System.out.println(Recursion.hieu(17, 4));
+	}
+
+}

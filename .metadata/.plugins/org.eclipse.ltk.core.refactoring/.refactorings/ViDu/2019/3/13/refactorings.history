@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;vidu.Vidu&apos; to &apos;vidu&apos;&#x0D;&#x0A;- Original project: &apos;ViDu&apos;&#x0D;&#x0A;- Original element: &apos;vidu.Vidu&apos;&#x0D;&#x0A;- Renamed element: &apos;vidu.vidu&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Vidu&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;vidu{Vidu.java[Vidu" matchStrategy="1" name="vidu" qualified="false" references="true" similarDeclarations="false" stamp="1553762090966" textual="false" version="1.0"/>
+</session>

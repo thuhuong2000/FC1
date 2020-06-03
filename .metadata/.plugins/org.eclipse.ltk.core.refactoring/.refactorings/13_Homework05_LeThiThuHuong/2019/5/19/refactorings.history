@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;13_Homework05_LeThiThuHuong/src/exception_handling/Arithmatic.java&apos; to &apos;Arithmetic.java&apos;" description="Rename resource &apos;Arithmatic.java&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/exception_handling/Arithmatic.java" name="Arithmetic.java" stamp="1557111022013" updateReferences="true"/>
+</session>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;13_Homework01_LeThiThuHuong/src/aray_of_integer&apos; to &apos;array_of_integer&apos;" description="Rename resource &apos;aray_of_integer&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/aray_of_integer" name="array_of_integer" stamp="1555029364532" updateReferences="true"/>
+</session>

@@ -1,0 +1,8 @@
+The area of circle : 94.985
+The area of rectangle : 80.0
+The area of rectangle : 50.0
+The area of circle : 38.465
+The area of rectangle : 24.0
+The area of square : 9.0
+The area of triangle : 6.0
+The area of triangle : 3.897114317029974

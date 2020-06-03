@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;13_Homework04_LeThiThuHuong/src/option_pane/JOptionPane.java&apos; to &apos;JOptionPane_Example.java&apos;" description="Rename resource &apos;JOptionPane.java&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/option_pane/JOptionPane.java" name="JOptionPane_Example.java" stamp="1557448355052" updateReferences="true"/>
+</session>
